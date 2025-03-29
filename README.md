@@ -11,6 +11,8 @@
 </p>
 <p align="center"><b>让你更优雅的使用 OpenClash </b></p>
 
+
+FORK自Aethersailor
 # 关于本项目 
 
 本项目可能是目前全网最强的 [OpenClash](https://github.com/vernesong/OpenClash) 保姆级图文设置方案和订阅转换模板！  
